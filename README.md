@@ -6,8 +6,8 @@ It uses a motion controller, a Bluetooth receiver and a couple of potentiometers
 
 
 ## Guide:
-
-### 1. [LSM6DS3 sensor](https://www.sparkfun.com/products/13339)
+You'll need the following things:
+### 1. An [LSM6DS3 sensor](https://www.sparkfun.com/products/13339)
 
 ### 2. A Bluetooth module, the one in the example is a [ZS-040](http://www.domirobot.com/pictures/201511810388__mg_5293.jpg)
 
