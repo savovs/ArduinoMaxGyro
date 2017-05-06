@@ -1,7 +1,7 @@
 This is an example of a wireless motion controller for [Max MSP](https://cycling74.com/products/max/)
 
 It uses a motion controller, a Bluetooth receiver and a couple of potentiometers:
-![](https://lh5.googleusercontent.com/K53KHHf1Prt5KiajGTvU9Eg5lmYZe8zimA7PDaEYlHtLbRjOSQwrZP4kzNSMgfwIgcvG_wBfRnFdvOY=w2560-h1217-rw)
+![](http://i.imgur.com/n5XX8z5.png)
 
 
 
